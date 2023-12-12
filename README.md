@@ -1,4 +1,4 @@
-# ImageBasedVisualServoing with Industrial Manipulator UR5e
+# ImageBasedVisualServoing with YOLO V5 object detection for Industrial Manipulator UR5e
 
 This github repository includes the Vision Algorithm files inside the Yolo_Implementation folder and various methods of controling the UR5e Robot inside YOLO-V5 folder. 
 
